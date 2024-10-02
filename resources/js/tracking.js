@@ -1,1 +1,1 @@
-alert(666)
+alert(document.cookie)
