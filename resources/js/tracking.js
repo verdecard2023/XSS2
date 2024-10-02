@@ -1,1 +1,1 @@
-<script>alert("____mendeleeano1907 Hackeando teu site____")</script>
+alert(666)
